@@ -1,61 +1,31 @@
-# Scriptor
-> Scriptor is a simple, minimal, clean & responsive Jekyll theme for writers.
-
-[Live Demo][demo] &nbsp; | &nbsp; [Download](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme/archive/master.zip) &nbsp;
-
-[![Theme preview image](/images/scriptor-jekyll.png)][demo]
-
-[demo]: https://scriptor-jekyll.netlify.app/
-
-# Premium Jekyll Themes
 
 
-You can find our premium Jekyll themes here -> [jekyllthemes.io](https://jekyllthemes.io/developers/just-good-themes)
+<!--
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
+-->
 
-## Features
+## Finish
 
-- Responsive design
-- Archive organized by [tags](https://scriptor-jekyll.netlify.com/tags/)
-- Disqus Comments
-- Accent color options
-- [Prism](https://prismjs.com/) syntax highlighter
+_Congratulations friend, you've completed this course!_
 
-## Local Installation
+<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-How to set up and run this theme locally in a Jekyll site.
+Your blog is now live and has been deployed!
 
-_Note: This theme cannot be configured and installed as a theme, however you can still use this repo as a theme with your own content in it._
+Here's a recap of all the tasks you've accomplished in your repository:
 
-Clone the repo or fork.
+- You enabled GitHub Pages.
+- You selected a theme using the config file.
+- You learned about proper directory format and file naming conventions in Jekyll.
+- You created your first blog post with Jekyll!
 
-Set up Jekyll -please follow the official documentation that can be found on the [Jekyll docs](https://jekyllrb.com/docs/).
+### What's next?
 
-Navigate to the repo and run `bundle install` to install the dependencies.
+- Keep working on your GitHub Pages site... we love seeing what you come up with!
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
-Then run `bundle exec jekyll serve` to start the Jekyll server.
 
-## Deployment
-
-### Local Instalation
-
-To set up Jekyll on local machine please follow the official documentation that can be found here -> https://jekyllrb.com/docs/.
-
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
-
-### Manual Deployment
-
-Jekyll outputs your static site to the `_site` directory by default. You can transfer the contents of this directory to almost any hosting provider to get your site live.
-
-### Netlify
-
-This theme is prepared to be hosted on [Netlify](https://www.netlify.com/). All you need to do is create a new private repository on GitHub or GitLab. Upload the theme to the repository and link your repo to Netlify. Please check [this link](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/#step-2-link-to-your-github) with the step-by-step guidelines.
-
-### Amazon S3
-
-If you want to host your site on Amazon S3, you can do so by using the [s3_website application](https://github.com/laurilehmijoki/s3_website). It will push your site to Amazon S3, where it can be served like any web server, dynamically scaling to almost unlimited traffic.
-
-Also, please check the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
-## Licenses
-
-All files and directories are licensed under the [MIT](https://opensource.org/licenses/mit-license.php) unless explicitly stated.
