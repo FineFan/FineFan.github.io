@@ -31,11 +31,11 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: /about.html
 #  - text: Style Guide
 #   url: /style-guide/
   - text: Tags
-    url: /tags/
+    url: /tags.html
 #  - text: Articals
 #    url: /_posts
 
