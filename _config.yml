@@ -12,7 +12,7 @@ lang: en-US
 title: "Fine"
 
 # A description of your site for meta tag, search engine results.
-description: "There are funny things that Fine want to share with you ."
+description: "There are funny things that Fine wants to share with you ."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
