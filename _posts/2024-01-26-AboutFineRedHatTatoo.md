@@ -10,7 +10,7 @@ After I've on boarded Red Hat in 2019, I got a Red Hat tatoo on my right arm.
 Here is my story about why I doing that.   
 
 
-在我2019年入职了红帽软件以后，我在我的右胳膊上面纹上了红帽的标志纹身。  
+在我2019年入职了红帽软件以后，我在我的右胳膊上面纹上了红帽的标志纹身。    
 这篇博客就是来说一下为什么我要这么做。  
 
 <!--more-->
